@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+*.log
+function.zip
+
+# Flask
+.env
+instance/
+
+# VSCode/IDE
+.vscode/
+.idea/
